@@ -1,0 +1,255 @@
+{
+    "spot_5":
+        [
+            {
+                "Quotation": "FTTUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "SOLUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "QNTUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "MASKUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "APTUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "BANDUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "SRMUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "RAYUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "MATICUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ANCBUSD",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            }
+        ],
+    "spot_1":
+        [
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            }
+        ],
+    "future_5":
+        [
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            }
+        ],
+    "future_1":
+        [
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            }
+        ],
+    "hash": 310452784380511130504565598068871731028
+}

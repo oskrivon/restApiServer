@@ -1,0 +1,255 @@
+{
+    "spot_5":
+        [
+            {
+                "Quotation": "MATICUSDT",
+                "NATR_14x5m": 10.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "DYDXUSDT",
+                "NATR_14x5m": 4.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "MASKUSDT",
+                "NATR_14x5m": 5.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "MASKUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "APTUSDT",
+                "NATR_14x5m": 5.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "SOLUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "SRMUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "FTTUSDT",
+                "NATR_14x5m": 5.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "MATICUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "CHZUSDT",
+                "NATR_14x5m": 10.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            }
+        ],
+    "spot_1":
+        [
+            {
+                "Quotation": "LINKUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 5.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "LINKUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "SOLUSDT",
+                "NATR_30x1m": 5.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 4.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "DOGEUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "LINKUSDT",
+                "NATR_30x1m": 7.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            }
+        ],
+    "future_5":
+        [
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 15.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 5.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "CHZUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_14x5m": 7.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "DOGEUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "STGUSDT",
+                "NATR_14x5m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            }
+        ],
+    "future_1":
+        [
+            {
+                "Quotation": "APTUSDT",
+                "NATR_30x1m": 5.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "TRXUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "STGUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 6.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "QNTUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "APTUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 8.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "ETHUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "DYDXUSDT",
+                "NATR_30x1m": 2.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            },
+            {
+                "Quotation": "QNTUSDT",
+                "NATR_30x1m": 21.1,
+                "Vol_24h": "$500M",
+                "Vol_4h": "$75M"
+            }
+        ],
+    "hash": 4594515342467205644054250134322303633
+}
